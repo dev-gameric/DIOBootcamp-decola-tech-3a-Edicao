@@ -1,4 +1,4 @@
-# Desafio de projeto '#'1 - Criar o primeiro repositório no github
+# Desafio de projeto #1 - Criar o primeiro repositório no github
     instruções:
         -Acesse seu github(estar previamente cadastrado no site)
         -Acesse seu perfil 
@@ -11,4 +11,4 @@
 ## Repositório criado com sucesso
 
 ### O que é um ReadMe?
-    [readme nada mais é que um arquivo Markdown, entre outras palavras, uma linguagem de marcação que tem a finalidade de ser o "Resumo" de seu projeto]
+    readme nada mais é que um arquivo Markdown, entre outras palavras, uma linguagem de marcação que tem a finalidade de ser o "Resumo" de seu projeto
