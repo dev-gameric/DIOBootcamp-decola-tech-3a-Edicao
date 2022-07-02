@@ -11,7 +11,7 @@ instruções:
 - Marque a opção "Add a README file" para criar automaticamente um arquivo Markdown
 - Clique no botão ao fim da página "Create repository"
 
-## Desafio concluído'.'
+## Desafio concluído
 
 - Veja o repositório criado [aqui](https://github.com/dev-gameric/DIOBootcamp-decola-tech-3a-Edicao/tree/main/Desafio%201)
 
