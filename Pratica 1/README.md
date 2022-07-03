@@ -67,3 +67,7 @@ Iremos por em práticas as primeiras linhas de códigos para absorver todo conte
 >Quando estamos criando o layout de um site o navegador representa cada elemento HTML  como uma caixa retangular, isso é >o box-model. E com CSS nós alteramos a aparência dessa caixa (largura, altura, cor de fundo, etc.). Essa caixa é >composta por 4 áreas: o conteúdo, o padding, a borda e a margem.
 
 ![box-model](/Pratica%201/imagens/box-model.png "box-model")
+
+### WebSite
+
+"[website](/Pratica%201/imagens/imagem-site.png "Imagem do website")
