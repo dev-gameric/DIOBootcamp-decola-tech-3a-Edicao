@@ -70,4 +70,4 @@ Iremos por em práticas as primeiras linhas de códigos para absorver todo conte
 
 ### WebSite
 
-"[website](/Pratica%201/imagens/imagem-site.png "Imagem do website")
+![website](/Pratica%201/imagens/imagem-site.png "Imagem do website")
