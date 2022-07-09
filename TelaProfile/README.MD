@@ -38,4 +38,8 @@
 > - Pressable
 > - Linking API
 > - Adicionando código nativo no AndroidManifest.xml para abrir link
->
+
+## Desafio: 
+
+Implementar um histórico do github simulando o nome DIO ou algo criativo.
+
