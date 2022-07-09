@@ -18,4 +18,4 @@ Já me deparo com introdução a programação web com html5 e css3. Na qual eu 
 
 Nesta fase já estamos um pouco avançado onde iremos fazer uma tela profile utilizando o react-native.
 
-> - Veja [aqui](https://github.com/dev-gameric/DIOBootcamp-decola-tech-3a-Edicao/tree/main/tela%20profile/TelaProfile "Link para o repositório")
+> - Veja [aqui](https://github.com/dev-gameric/DIOBootcamp-decola-tech-3a-Edicao/tree/master/TelaProfile "Link para o repositório")
