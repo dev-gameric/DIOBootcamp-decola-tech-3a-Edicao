@@ -1,5 +1,5 @@
 import React from 'react';
-import {View, Image, Text, StyleSheet, SafeAreaView, StatusBar, Pressable, Linking} from 'react-native';
+import {View, Image, Text, StyleSheet, SafeAreaView, StatusBar, Pressable, Linking, ListRenderItem} from 'react-native';
 
 const fotoPerfil = 'https://avatars.githubusercontent.com/u/93603008?v=4';
 const corGithub = '#040109';
@@ -25,6 +25,9 @@ const App = () => {
                 <Text accessibilityLabel='Nome: Eric Silva' style={style.name}>Eric Silva</Text>
                 <Text accessibilityLabel='Nickname: dev-gameric' style={style.nickname}>dev-Gameric</Text>
                 <Text accessibilityLabel='Idade: 21 anos Naturalidade: Brasília - DF' style={style.descricao}>📅Idade: 21 anos 👶🏼Naturalidade: Brasília - DF</Text>
+                <View>
+                    
+                </View>
                 <Pressable onPress={abrirlinkgithub}>
                 <View style={style.botao}>
                 <Text style={style.textobotao}>Abrir no github</Text>
@@ -74,6 +77,10 @@ const style = StyleSheet.create ({
         color: corFonte,
     },
 
+    linhadefault: {
+        color: 'green',
+    },
+
     botao: {
         alignItems: 'center',
         backgroundColor: corFonteDark,
@@ -81,9 +88,10 @@ const style = StyleSheet.create ({
         marginTop: 30,
         borderRadius: 10,
     },
-
+    
     textobotao: {
         fontWeight: 'bold',
         fontSize: 18,
+        color: 'white',
     },
 });
