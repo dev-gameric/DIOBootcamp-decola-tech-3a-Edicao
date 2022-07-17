@@ -1,11 +1,26 @@
-import React, {useState} from 'react';
+import React, {useState, useEffect} from 'react';
 import {View, StyleSheet, Image, TouchableOpacity} from 'react-native';
+import torch from 'react-native-torch';
+import RNShake from 'react-native-shake';
+import Torch from 'react-native-torch';
 
 const App = () => {
 
   const [toggle, setToggle] = useState(false);
 
   const trocarEstados = () => setToggle(toggleAntigo => !toggleAntigo);
+
+  useEffect(() => {
+    Torch.switchState(toggle)
+  }, [toggle]);
+
+  useEffect(() => {
+    const subscription = RNShake.addListener (() => {
+      setToggle(toggleAntigo => !toggleAntigo)
+    });
+    return () => subscription.remove();
+  }, []);
+
   return ( 
   <View style={toggle ? style.containerLight : style.containerDark}>
     <TouchableOpacity onPress={trocarEstados}>
