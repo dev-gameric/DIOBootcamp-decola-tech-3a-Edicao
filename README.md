@@ -24,4 +24,4 @@ Nesta fase já estamos um pouco avançado onde iremos fazer uma tela profile uti
 
 Fizemos o primeiro app utilizando react-native com as libs shake e torch para a criação do projeto flashlight, um app que liga e desliga a lanter utilizando o sensor de movimento ou tocando na tela.
 
-> - Veja [aqui]("Link para o repositório")
+> - Veja [aqui](https://github.com/dev-gameric/DIOBootcamp-decola-tech-3a-Edicao/tree/master/FlashLight "Link para o repositório")
