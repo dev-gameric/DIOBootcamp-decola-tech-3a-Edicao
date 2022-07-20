@@ -19,3 +19,9 @@ Já me deparo com introdução a programação web com html5 e css3. Na qual eu 
 Nesta fase já estamos um pouco avançado onde iremos fazer uma tela profile utilizando o react-native.
 
 > - Veja [aqui](https://github.com/dev-gameric/DIOBootcamp-decola-tech-3a-Edicao/tree/master/TelaProfile "Link para o repositório")
+
+## Quarta fase
+
+Fizemos o primeiro app utilizando react-native com as libs shake e torch para a criação do projeto flashlight, um app que liga e desliga a lanter utilizando o sensor de movimento ou tocando na tela.
+
+> - Veja [aqui]("Link para o repositório")
