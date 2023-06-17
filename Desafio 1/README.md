@@ -13,7 +13,7 @@ instruções:
 
 ## Desafio concluído
 
-- Veja o repositório criado [aqui](https://github.com/dev-gameric/DIOBootcamp-decola-tech-3a-Edicao/tree/main/Desafio%201)
+- Veja o repositório criado [aqui](https://github.com/dev-gameric/DIOBootcamp-decola-tech-3a-Edicao/tree/master "Link para o repostitório")
 
 ### O que é um ReadMe?
 
